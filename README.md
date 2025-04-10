@@ -15,12 +15,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/29TanayRaj/29TanayRaj/output/github-snake.svg" />
 </picture>
 
-
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=29TanayRaj&theme=white&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=29TanayRaj&theme=white&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=29TanayRaj&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=29TanayRaj&layout=compact&theme=default" alt="Light Theme" height="160"/>
+</p>
 
-
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=29TanayRaj&theme=white&hide_border=false" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=29TanayRaj&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="160"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
