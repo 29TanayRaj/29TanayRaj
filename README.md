@@ -1,4 +1,8 @@
-<img src="front1.JPG" alt="GitHub Banner" width="100%" />
+<!--img src="front1.JPG" alt="GitHub Banner" width="100%" /-->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=2A5783&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'am+Tanay;Data+Scientist+%7C+Mathematician)](https://git.io/typing-svg)
+
 
 ## 💫 About Me:
 🎓 I'm a second-year M.Tech student at the **Indian Institute of Technology Roorkee**, majoring in **Applied Mathematics and Scientific Computing**.<br><br> 💡 My Interests: Machine Learning, Deep Learning, Evolutionary Algorithms, Time Series Analysis, Probability & Statistics, Statistical Inference, Generative AI
