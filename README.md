@@ -5,7 +5,9 @@
 
 
 ## 💫 About Me:
-🎓 I'm a second-year M.Tech student at the **Indian Institute of Technology Roorkee**, majoring in **Applied Mathematics and Scientific Computing**.<br><br> 💡 My Interests: Machine Learning, Deep Learning, Evolutionary Algorithms, Time Series Analysis, Probability & Statistics, Statistical Inference, Generative AI
+Work: Currently working as a GenAI Analyst
+Ed bag: M.Tech AMSC @ IITR & M.SC Math @ IITP
+My subject interests are Machine Learning, Deep Learning, Evolutionary Algorithms, Time Series Analysis, Probability & Statistics, Statistical Inference, Generative AI.
 
 ## Currently Working On:
 I am currently working on Tree based evolutionary algorithems, if you are interested lets collaborate!!.
