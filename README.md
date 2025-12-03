@@ -6,7 +6,9 @@
 
 ## 💫 About Me:
 Work: Currently working as a GenAI Analyst
+
 Ed bag: M.Tech AMSC @ IITR & M.SC Math @ IITP
+
 My subject interests are Machine Learning, Deep Learning, Evolutionary Algorithms, Time Series Analysis, Probability & Statistics, Statistical Inference, Generative AI.
 
 ## Currently Working On:
