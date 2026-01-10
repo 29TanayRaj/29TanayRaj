@@ -1,7 +1,7 @@
 <!--img src="front1.JPG" alt="GitHub Banner" width="100%" /-->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=2A5783&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'am+Tanay;Data+Scientist+%7C+Mathematician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=2A5783&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'am+Tanay)](https://git.io/typing-svg)
 
 
 ## 💫 About Me:
